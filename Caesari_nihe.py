@@ -1,4 +1,5 @@
 print("Caesari nihe")
+
 plaintext = input("Sisestage tekst: ")
 shift = int(input("Sisestage nihke suurus: "))
 
