@@ -106,6 +106,7 @@ print("Halvim kuu Bitcoini ajaloos: {} (langus: {:.4f} USD)".format(
     worst_month_fall
 ))
 
+
 best_week = None
 best_week_surge = None
 worst_week = None
