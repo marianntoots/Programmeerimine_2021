@@ -28,7 +28,6 @@ def kas_on_kokkuhoidlik(n):
     else:
         return "Raiskav"
 
-
 for num in (14, 125, 1024, 30):
     print(num, ":", kas_on_kokkuhoidlik(num))
 
