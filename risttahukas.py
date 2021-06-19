@@ -1,6 +1,5 @@
 
 w, h, d = map(int, input("Sisesta kujundi mõõdud -> Laius x Kõrgus x Sügavus: ").split("x"))
-
 move_right = True
 right_space = 0
 
